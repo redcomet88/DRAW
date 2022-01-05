@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T04:14:10.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="X7ceqbP7o2F8WEX8mty8" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T07:52:13.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YEH6tXk2qkKZMUPF_3Hr" version="16.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,27 @@
             <mxPoint x="400" y="560" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7O_WVU9fVUMuvD31ph39-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7O_WVU9fVUMuvD31ph39-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="370" as="sourcePoint" />
+            <mxPoint x="560" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7O_WVU9fVUMuvD31ph39-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7O_WVU9fVUMuvD31ph39-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="559" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7O_WVU9fVUMuvD31ph39-18" value="更新&lt;br&gt;评分数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7O_WVU9fVUMuvD31ph39-20" value="协同过滤&lt;br&gt;推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="50" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7O_WVU9fVUMuvD31ph39-23" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&amp;nbsp; &amp;nbsp; （1）从预约到完成，一共有0-4 五个状态，如果取消则直接进入状态9；&lt;br&gt;&amp;nbsp; &amp;nbsp; （2）评价数据直接修改评分数据表，从而影响协同过滤的推荐模型结果；&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="640" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
