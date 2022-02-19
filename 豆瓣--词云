@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T03:37:34.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZyI3eDnkCYksczhHkB7X" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T03:43:06.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kaMTv8ksn4YfyI9oYrD8" version="16.6.1" type="github">
   <diagram id="ztcwVw_kL7Dd7vYj4Edj" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,34 +8,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-1" value="读取数据库数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="L5WBr4ahOkCRoFRlz74E-3" target="L5WBr4ahOkCRoFRlz74E-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-3" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="L5WBr4ahOkCRoFRlz74E-4" target="L5WBr4ahOkCRoFRlz74E-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-4" value="jieba 分词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="290" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="L5WBr4ahOkCRoFRlz74E-5" target="L5WBr4ahOkCRoFRlz74E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-5" value="结果优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="L5WBr4ahOkCRoFRlz74E-6" target="L5WBr4ahOkCRoFRlz74E-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-6" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L5WBr4ahOkCRoFRlz74E-7" value="可视化展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5WBr4ahOkCRoFRlz74E-13" value="前端vue 使用了&lt;br style=&quot;font-size: 19px;&quot;&gt;Echarts 的词云插件&lt;br style=&quot;font-size: 19px;&quot;&gt;并且使用maskImage&lt;br style=&quot;font-size: 19px;&quot;&gt;可以自定义词云形状" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontSize=19;fillColor=default;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="180" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
