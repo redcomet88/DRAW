@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T05:54:28.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RSMyv4pvAdXfKSPG_ba2" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T05:55:39.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MYKI_1u4GEB_cbxe8fWL" version="16.6.1" type="github">
   <diagram id="JLk9FKHlb9LdRjsdpeua" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,11 @@
         <mxCell id="ArTHainUAxs4ZkYim9h0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="YeQBJPrLlTCUJduyqjX9-4" target="ArTHainUAxs4ZkYim9h0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ArTHainUAxs4ZkYim9h0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="YeQBJPrLlTCUJduyqjX9-4" target="ArTHainUAxs4ZkYim9h0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YeQBJPrLlTCUJduyqjX9-4" value="农业智能养殖" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;shadow=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="-990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeQBJPrLlTCUJduyqjX9-5" value="登录" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-820" y="-850" width="40" height="170" as="geometry" />
@@ -109,11 +112,14 @@
         <mxCell id="YeQBJPrLlTCUJduyqjX9-21" value="采购中心" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-850" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ArTHainUAxs4ZkYim9h0-3" value="消息管理" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ArTHainUAxs4ZkYim9h0-3" value="养殖物分类" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-110" y="-850" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ArTHainUAxs4ZkYim9h0-5" value="账户充值" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-850" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ArTHainUAxs4ZkYim9h0-7" value="供应市场" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-850" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
