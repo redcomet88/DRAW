@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T05:57:51.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QZfjAPN5wA3ItrjwMOuF" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T05:58:59.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7CE6GI7rWSnmv5ONK8GG" version="16.6.1" type="github">
   <diagram id="JLk9FKHlb9LdRjsdpeua" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="ArTHainUAxs4ZkYim9h0-7" value="供应市场" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;html=1;fontSize=20;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-850" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ArTHainUAxs4ZkYim9h0-9" value="&amp;nbsp;※账户充值对接了支付宝的沙箱支付（支付宝测试环境）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-644" width="720" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
