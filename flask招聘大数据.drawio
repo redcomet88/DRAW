@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T10:19:57.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="WEDSDXz2HaZeGQh7bSfl" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T10:20:06.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vd7IOeGD0DAu1byNDs9q" version="16.6.4" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="SLsrdyDVqO_aE2-8c7I_-1" value="职位库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="250" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ySN6mnR29yhOzEf8zuOG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLsrdyDVqO_aE2-8c7I_-5" target="ySN6mnR29yhOzEf8zuOG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySN6mnR29yhOzEf8zuOG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLsrdyDVqO_aE2-8c7I_-5" target="ySN6mnR29yhOzEf8zuOG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLsrdyDVqO_aE2-8c7I_-5" value="协同过滤&lt;br&gt;职位推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="120" height="40" as="geometry" />
