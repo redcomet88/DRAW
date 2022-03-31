@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T08:38:34.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.2.4" etag="8yKyBbKZWRQc0f0pgf9u" type="github"><diagram id="7Rmahdd349rWPLZw3SBS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-31T09:26:29.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="qufy69-T6PPRRDLxGhoT" version="17.2.4" type="github">
+  <diagram id="7Rmahdd349rWPLZw3SBS" name="Page-1">
+    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-1" target="oo0qgpR-D_F_aVYOEQEG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-1" value="链家二手房爬虫" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-2" target="oo0qgpR-D_F_aVYOEQEG-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="310" />
+              <mxPoint x="210" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-2" value="根据不同的城市&lt;br&gt;二分法循环读取二手房页面&lt;br&gt;https://nj.lianjia.com/ershoufang/" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF3333;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-4" target="oo0qgpR-D_F_aVYOEQEG-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="400" />
+              <mxPoint x="330" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-4" target="oo0qgpR-D_F_aVYOEQEG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-4" value="读取二手房详情&lt;br&gt;https://nj.lianjia.com/ershoufang/&lt;br&gt;xxxx.html" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-6" target="oo0qgpR-D_F_aVYOEQEG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-6" value="读取小区详情&lt;br&gt;https://nj.lianjia.com/xiaoqu/xxxx/" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="oo0qgpR-D_F_aVYOEQEG-7" target="oo0qgpR-D_F_aVYOEQEG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-7" value="解析存储二手房源数据&lt;br&gt;房源名称、地址、价格、图片&lt;br&gt;房屋结构、层数、小区&lt;br&gt;房屋建筑属性、交易属性、卖点&lt;br&gt;*&lt;font color=&quot;#ff3333&quot;&gt;根据百度接口解析房源的经纬度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-8" value="解析存储小区数据&lt;br&gt;小区名称、地址、价格、图片&lt;br&gt;各类建筑属性、物业属性、开发商等&lt;br&gt;*&lt;font color=&quot;#ff3333&quot;&gt;根据百度接口解析小区的经纬度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="550" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0qgpR-D_F_aVYOEQEG-10" value="存储房源约50个属性，包含了二手房 和 车位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="555" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
