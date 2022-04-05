@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T04:13:42.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="exl_0rLL4Qrn-YW4JVsl" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T04:14:18.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="bqAvbCudA186zVkDlc9F" version="17.4.0" type="github">
   <diagram id="9vjwfqeA_DVdZ4IVt9qL" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,16 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-2" value="人员进出管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="160" height="70" as="geometry" />
+          <mxGeometry x="130" y="-920" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="mTRX2ACm2MRmk_OSoDYx-3" target="mTRX2ACm2MRmk_OSoDYx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-3" value="进出记录查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="20" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="-1070" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-4" value="进出记录维护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-30" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="-1120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="mTRX2ACm2MRmk_OSoDYx-5" target="mTRX2ACm2MRmk_OSoDYx-8">
           <mxGeometry relative="1" as="geometry" />
@@ -41,31 +41,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-5" value="进出名单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="105" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="-985" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-6" value="系统权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="-700" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-7" value="黑名单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="40" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="-1050" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-8" value="灰名单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="105" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="-985" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-9" value="白名单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="170" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="-920" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="mTRX2ACm2MRmk_OSoDYx-18" target="mTRX2ACm2MRmk_OSoDYx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-18" value="核酸记录查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="-770" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-20" value="异常进出预警" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="-850" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-21" value="手工维护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="-770" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
