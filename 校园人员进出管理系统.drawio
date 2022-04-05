@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T04:54:24.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8NJvw1gZHpJX5O_FoLUu" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T05:58:04.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="rCks3S1vAJ6qO4n9Cw49" version="17.4.0" type="github">
   <diagram id="9vjwfqeA_DVdZ4IVt9qL" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="mTRX2ACm2MRmk_OSoDYx-32" value="核酸签到应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="550" y="-390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mTRX2ACm2MRmk_OSoDYx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=classicThin;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="mTRX2ACm2MRmk_OSoDYx-37" target="mTRX2ACm2MRmk_OSoDYx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mTRX2ACm2MRmk_OSoDYx-37" value="返校申请应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-270" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
