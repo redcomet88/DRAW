@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T01:54:16.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Iy2epzXE2_T8QCeqfhi9" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T01:55:19.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="hv1DX2h_jE3ToaJ8Zmx9" version="17.4.0" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="SLsrdyDVqO_aE2-8c7I_-5" value="协同过滤&lt;br&gt;推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ySN6mnR29yhOzEf8zuOG-1" value="AI图像识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ySN6mnR29yhOzEf8zuOG-1" value="百度AI图像识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ySN6mnR29yhOzEf8zuOG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-7" edge="1">
@@ -93,6 +93,9 @@
             <mxPoint x="380" y="340" as="sourcePoint" />
             <mxPoint x="420" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EjBGtmn64PD8jTdNR0ln-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySN6mnR29yhOzEf8zuOG-3" target="EjBGtmn64PD8jTdNR0ln-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ySN6mnR29yhOzEf8zuOG-3" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="250" y="510" width="120" height="40" as="geometry" />
@@ -112,11 +115,14 @@
         <mxCell id="HFXg7WAJ4wF_oNfZ3qlw-2" value="支付宝沙箱支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFXg7WAJ4wF_oNfZ3qlw-5" value="&amp;nbsp; 查看地图位置，查看房源图片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="HFXg7WAJ4wF_oNfZ3qlw-5" value="&amp;nbsp; 查看地图位置；浏览房源图片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="580" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-1" value="热力图、散点图、柱图、饼图、折线图等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EjBGtmn64PD8jTdNR0ln-3" value="阿里短信验证码修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
