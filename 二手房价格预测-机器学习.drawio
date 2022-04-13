@@ -1,75 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T13:10:24.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dhZhcseFxDY1K7QsX3Zf" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T01:18:53.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="D1VwMn_-UELjMhtTrV5v" version="17.4.2" type="github">
   <diagram id="yviD2XQUQ4nQ4JYO9C7l" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bmkte0DKfMiooFraYme--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--1" target="bmkte0DKfMiooFraYme--6">
+        <mxCell id="bmkte0DKfMiooFraYme--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--1" target="bmkte0DKfMiooFraYme--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--1" value="读取数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--1" value="读取数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="294" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;整个预测的功能是基于&lt;b&gt;sklearn&lt;/b&gt;的机器学习算法包的，使用到了&lt;b&gt;pandas&lt;/b&gt;、&lt;b&gt;numpy&lt;/b&gt;来对数据进行预处理，特征的处理，然后进行模型的训练，预测的时候可以使用预先训练好的模型。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;整个预测的功能是基于&lt;b&gt;sklearn&lt;/b&gt;的机器学习算法包的，使用到了&lt;b&gt;pandas&lt;/b&gt;、&lt;b&gt;numpy&lt;/b&gt;来对数据进行预处理，特征的处理，然后进行模型的训练，预测的时候可以使用预先训练好的模型。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="170" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--6" target="bmkte0DKfMiooFraYme--7">
+        <mxCell id="bmkte0DKfMiooFraYme--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--6" target="bmkte0DKfMiooFraYme--7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--6" value="准备数据和特征数据量化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--6" value="准备数据和特征数据量化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--7" target="bmkte0DKfMiooFraYme--8">
+        <mxCell id="bmkte0DKfMiooFraYme--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--7" target="bmkte0DKfMiooFraYme--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--7" value="分割数据集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--7" value="分割数据集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--8" target="bmkte0DKfMiooFraYme--9">
+        <mxCell id="bmkte0DKfMiooFraYme--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--8" target="bmkte0DKfMiooFraYme--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--8" value="训练数据和测试数据标准化处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--8" value="训练数据和测试数据标准化处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--9" target="bmkte0DKfMiooFraYme--10">
+        <mxCell id="bmkte0DKfMiooFraYme--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bmkte0DKfMiooFraYme--9" target="bmkte0DKfMiooFraYme--10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--9" value="训练模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--9" value="训练模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--10" value="保存模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--10" value="保存模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--16" target="bmkte0DKfMiooFraYme--17">
+        <mxCell id="bmkte0DKfMiooFraYme--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--21" target="bmkte0DKfMiooFraYme--22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--16" value="输入预测参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--17" target="bmkte0DKfMiooFraYme--18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--17" value="读取模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--18" value="给出预测结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--21" target="bmkte0DKfMiooFraYme--22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--21" value="举例：输入&lt;b&gt;房屋朝向&lt;/b&gt;、&lt;b&gt;房屋装修&lt;/b&gt;、&lt;b&gt;房屋区域&lt;/b&gt;等参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--21" value="举例：输入&lt;b&gt;房屋朝向&lt;/b&gt;、&lt;b&gt;房屋装修&lt;/b&gt;、&lt;b&gt;房屋区域&lt;/b&gt;等参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="294" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="bmkte0DKfMiooFraYme--22" target="bmkte0DKfMiooFraYme--24">
+        <mxCell id="bmkte0DKfMiooFraYme--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="bmkte0DKfMiooFraYme--22" target="bmkte0DKfMiooFraYme--24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--22" value="读取模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--22" value="读取模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmkte0DKfMiooFraYme--24" value="&lt;font color=&quot;#ff3333&quot;&gt;预测二手房价格为 108万&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="bmkte0DKfMiooFraYme--24" value="&lt;font color=&quot;#ff3333&quot;&gt;预测二手房价格为 108万&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="650" y="360" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
