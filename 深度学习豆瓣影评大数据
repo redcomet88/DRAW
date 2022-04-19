@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T00:50:57.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bScVmrHjLwapifLW-DY1" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T00:54:06.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lFhDmdbrt7G7BXGFkUKL" version="17.4.5" type="github">
   <diagram id="V2zGZrx1W2stLBBZ37LN" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,15 @@
         <mxCell id="vfVgQjEAgglERbip78DY-59" value="查看影评" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="541" y="750" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfVgQjEAgglERbip78DY-60" target="vfVgQjEAgglERbip78DY-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfVgQjEAgglERbip78DY-60" target="vfVgQjEAgglERbip78DY-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfVgQjEAgglERbip78DY-60" target="vfVgQjEAgglERbip78DY-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfVgQjEAgglERbip78DY-60" value="多种分析图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="820" width="120" height="35" as="geometry" />
         </mxCell>
@@ -236,6 +245,15 @@
         </mxCell>
         <mxCell id="vfVgQjEAgglERbip78DY-72" value="动态时间轴图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="915" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-76" value="柱、饼、面积图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="820" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-77" value="评分散点图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="870" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vfVgQjEAgglERbip78DY-78" value="动态面积图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="915" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
