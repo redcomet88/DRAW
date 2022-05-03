@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T03:26:52.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ADSy1xkdyOALcaGu-GLt" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T03:27:15.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kqAj2TpSx02ksx7-FDWS" version="17.4.6" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="660" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-1" value="水滴、动态柱状图、饼图、折线图.." style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="690" y="195" width="120" height="70" as="geometry" />
+          <mxGeometry x="675" y="207.5" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-3" value="阿里短信验证码修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="690" y="560" width="120" height="40" as="geometry" />
