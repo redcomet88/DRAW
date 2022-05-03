@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T03:24:43.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yRF-TaElixP_vy41di_e" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T03:25:40.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5fJqtw2maDJZnOz45Epj" version="17.4.6" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,10 @@
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="GBpQVhTk9KxDPRQjgbmB-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBpQVhTk9KxDPRQjgbmB-4" value="房源分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="z8FbhvkW46ZyqsgCDVF_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="z8FbhvkW46ZyqsgCDVF_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBpQVhTk9KxDPRQjgbmB-4" value="可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXg7WAJ4wF_oNfZ3qlw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-5" target="HFXg7WAJ4wF_oNfZ3qlw-5" edge="1">
@@ -168,6 +171,9 @@
         </mxCell>
         <mxCell id="z8FbhvkW46ZyqsgCDVF_-14" value="设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8FbhvkW46ZyqsgCDVF_-17" value="Echarts分析大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="515" y="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
