@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T01:05:39.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="IT-GXPEvHhq5qO52Bw77" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T03:14:07.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="yoD6IqzK4BWFekmmwPs3" version="17.1.3" type="github">
   <diagram id="9vjwfqeA_DVdZ4IVt9qL" name="Page-1">
-    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,33 @@
         </mxCell>
         <mxCell id="qPYPx7OVyf8pasTDU_Wo-16" value="核酸签到设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="-180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="QlKhhKcutJUlhiBkMebA-1" target="QlKhhKcutJUlhiBkMebA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="QlKhhKcutJUlhiBkMebA-1" target="QlKhhKcutJUlhiBkMebA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-1" value="人员进出和&lt;br&gt;核酸签到" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-910" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="QlKhhKcutJUlhiBkMebA-2" target="QlKhhKcutJUlhiBkMebA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="QlKhhKcutJUlhiBkMebA-2" target="QlKhhKcutJUlhiBkMebA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-2" value="人员进出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-4" value="核酸签到" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-6" value="教职工白名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlKhhKcutJUlhiBkMebA-7" value="返校审核&lt;br&gt;通过学生" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-945" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
