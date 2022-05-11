@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:02:56.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="OBhI68_jgxXJgSi0gnrs" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T06:30:08.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="QDsMils3N13EX0Icmyz5" version="18.0.0" type="github">
   <diagram id="9vjwfqeA_DVdZ4IVt9qL" name="Page-1">
     <mxGraphModel dx="1445" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,10 +186,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-1" value="灰名单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#bac8d3;strokeColor=#000099;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-2" value="黑名单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#1A1A1A;fontColor=#FFFFFF;strokeColor=#FF3333;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontColor=#1A1A1A;" edge="1" parent="1" source="uK2itGOSWg6bH50uQCH6-3" target="uK2itGOSWg6bH50uQCH6-13">
           <mxGeometry relative="1" as="geometry" />
@@ -200,16 +200,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-3" value="&lt;h1&gt;校园疫情防控人员管理辅助系统&amp;nbsp;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-680" width="410" height="320" as="geometry" />
+          <mxGeometry x="970" y="-600" width="410" height="320" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-4" value="白名单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#00FF00;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#1A1A1A;" edge="1" parent="1" source="uK2itGOSWg6bH50uQCH6-8" target="uK2itGOSWg6bH50uQCH6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-8" value="进出记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeWidth=4;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontColor=#1A1A1A;" edge="1" parent="1" source="uK2itGOSWg6bH50uQCH6-13" target="uK2itGOSWg6bH50uQCH6-14">
           <mxGeometry relative="1" as="geometry" />
@@ -220,16 +220,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-13" value="&lt;h1&gt;数据资产平台&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-680" width="178" height="320" as="geometry" />
+          <mxGeometry x="1490" y="-600" width="178" height="320" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-14" value="&lt;h1&gt;安防系统&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-680" width="178" height="320" as="geometry" />
+          <mxGeometry x="1820" y="-600" width="178" height="320" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-18" value="安防用户接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#00FF00;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1419" y="-550" width="140" height="60" as="geometry" />
+          <mxGeometry x="1509" y="-470" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-19" value="速通门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#00FF00;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1749" y="-550" width="140" height="60" as="geometry" />
+          <mxGeometry x="1839" y="-470" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uK2itGOSWg6bH50uQCH6-22" value="&lt;h1&gt;学生返校码&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-550" width="130" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
