@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:30:08.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="QDsMils3N13EX0Icmyz5" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T08:53:37.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="fFWUWOFsZXY_RkAANz-C" version="18.0.0" type="github">
   <diagram id="9vjwfqeA_DVdZ4IVt9qL" name="Page-1">
     <mxGraphModel dx="1445" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           <mxGeometry x="1839" y="-470" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uK2itGOSWg6bH50uQCH6-22" value="&lt;h1&gt;学生返校码&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-550" width="130" height="150" as="geometry" />
+          <mxGeometry x="760" y="-520" width="130" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
