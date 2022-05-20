@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T01:43:10.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Ss-nDIQ3QUu0dLZlb4xZ" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T01:50:49.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="8X7kC2CBjwAsC29k_FUU" version="18.0.4" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
-    <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,9 @@
         <mxCell id="z8FbhvkW46ZyqsgCDVF_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="z8FbhvkW46ZyqsgCDVF_-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0YCFfEILquXOQMnymZaD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="0YCFfEILquXOQMnymZaD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-4" value="可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -88,7 +91,7 @@
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-7" value="身份证识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="520" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBpQVhTk9KxDPRQjgbmB-13" value="歌词词云/评论词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="GBpQVhTk9KxDPRQjgbmB-13" value="文章词云/评论词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="510" y="360" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-14" target="EjBGtmn64PD8jTdNR0ln-1" edge="1">
@@ -159,8 +162,8 @@
         <mxCell id="z8FbhvkW46ZyqsgCDVF_-14" value="设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z8FbhvkW46ZyqsgCDVF_-17" value="交互式面积图、散点、多折线图等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="515" y="290" width="255" height="40" as="geometry" />
+        <mxCell id="z8FbhvkW46ZyqsgCDVF_-17" value="舆情旭日图、评论热点图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="515" y="310" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aK24O7FuVwJ1XTzpi6x3-1" value="话题统计信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="40" width="120" height="40" as="geometry" />
@@ -280,6 +283,9 @@
         </mxCell>
         <mxCell id="0YCFfEILquXOQMnymZaD-10" value="浏览器访问" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="722.89" width="54.76" height="74.21" as="geometry" />
+        </mxCell>
+        <mxCell id="0YCFfEILquXOQMnymZaD-17" value="话题关键词提取、观点提取分析图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="515" y="260" width="255" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
