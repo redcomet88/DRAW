@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T06:36:56.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3LgXeeuucMbTaCIndCGt" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T06:37:13.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="_xnVAu1MSPu9obMsu5_v" version="18.0.8" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DAb_E89MeZRaqiROTq5Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-5" target="DAb_E89MeZRaqiROTq5Q-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeeLAh5wC0WxoKkXgmIy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBpQVhTk9KxDPRQjgbmB-5" target="zeeLAh5wC0WxoKkXgmIy-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-5" value="高校卡片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -255,6 +258,9 @@
         </mxCell>
         <mxCell id="0YCFfEILquXOQMnymZaD-17" value="百度地图+高校热力图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="479.16999999999996" y="-740" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeeLAh5wC0WxoKkXgmIy-1" value="收藏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="651.67" y="-950" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
