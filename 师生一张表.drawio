@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T03:14:48.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="SbHDQzslXcvWcGBTvHFa" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T03:18:13.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="EDdlT0kNPCYw-2xHtY8b" version="18.1.3" type="github">
   <diagram id="cTWVXvlOjMiQOvwmBr1u" name="Page-1">
     <mxGraphModel dx="1869" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,31 +47,31 @@
           <mxGeometry x="365" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-38" value="&amp;nbsp; &amp;nbsp; 数据资产平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="790" width="200" height="60" as="geometry" />
+          <mxGeometry x="-150" y="930" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 数据交换平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="410" y="790" width="200" height="60" as="geometry" />
+          <mxGeometry x="250" y="930" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-40" value="汇聚业务系统的数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="880" width="410" height="60" as="geometry" />
+          <mxGeometry x="-150" y="1012" width="770" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-41" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="210" y="800" width="36" height="40" as="geometry" />
+          <mxGeometry x="-50" y="940" width="36" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-42" value="学生一张表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="200" y="610" width="410" height="150" as="geometry" />
+          <mxGeometry x="210" y="730" width="410" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-43" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_3.svg;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="240" y="892" width="50" height="37" as="geometry" />
+          <mxGeometry x="80" y="1023.5" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="420" y="800.5" width="40" height="39" as="geometry" />
+          <mxGeometry x="345" y="940" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="3kUF8BmXOeaKGdXSCLxE-47" target="3kUF8BmXOeaKGdXSCLxE-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="730" />
-              <mxPoint x="680" y="995" />
+              <mxPoint x="690" y="850" />
+              <mxPoint x="690" y="1115" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,28 +81,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-47" value="错误处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-48" value="各类业务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="200" y="970" width="410" height="50" as="geometry" />
+          <mxGeometry x="-150" y="1090" width="770" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="975" width="40" height="40" as="geometry" />
+          <mxGeometry x="90" y="1095" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-50" value="信息展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-51" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-52" value="个人成长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-53" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-54" value="学生画像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-55" value="教师一张表（管理版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-140" y="80" width="340" height="150" as="geometry" />
@@ -122,8 +122,23 @@
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-63" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp;数据报表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="10" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kUF8BmXOeaKGdXSCLxE-64" value="教师一张表（管理版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="610" width="340" height="150" as="geometry" />
+        <mxCell id="3kUF8BmXOeaKGdXSCLxE-64" value="学生一张表（管理版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="730" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3kUF8BmXOeaKGdXSCLxE-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="3kUF8BmXOeaKGdXSCLxE-22" target="3kUF8BmXOeaKGdXSCLxE-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="200" />
+              <mxPoint x="730" y="515" />
+            </Array>
+            <mxPoint x="670" y="250" as="sourcePoint" />
+            <mxPoint x="680" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kUF8BmXOeaKGdXSCLxE-66" value="源业务系统&lt;br&gt;中纠正" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="3kUF8BmXOeaKGdXSCLxE-65">
+          <mxGeometry x="0.0824" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
