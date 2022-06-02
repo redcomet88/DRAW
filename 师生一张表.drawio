@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T03:14:34.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="TTtzuyQn16-2RVSY0YaC" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T03:14:48.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="SbHDQzslXcvWcGBTvHFa" version="18.1.3" type="github">
   <diagram id="cTWVXvlOjMiQOvwmBr1u" name="Page-1">
     <mxGraphModel dx="1869" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="3kUF8BmXOeaKGdXSCLxE-63" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp;数据报表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="10" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kUF8BmXOeaKGdXSCLxE-64" value="教师一张表（管理版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="610" width="340" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
