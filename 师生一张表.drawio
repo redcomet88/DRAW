@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T09:10:24.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="GovIKuU3f9A5_n0aHcRd" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T09:13:15.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="f74yuzH69SxdRgQyGRjU" version="18.2.0" type="github">
   <diagram id="cTWVXvlOjMiQOvwmBr1u" name="Page-1">
     <mxGraphModel dx="1865" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,32 +151,35 @@
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-28" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp; &amp;nbsp;数据报表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="150" y="810" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-29" value="高基报表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-29" value="生活消费" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="265" y="820" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-30" value="状态库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="365" y="820" width="70" height="40" as="geometry" />
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-30" value="体育锻炼" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-31" value="职称评审" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="820" width="80" height="40" as="geometry" />
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-31" value="图书借阅" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="475" y="820" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-32" value="项目申报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="820" width="80" height="40" as="geometry" />
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-32" value="……" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="820" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-33" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp; &amp;nbsp;学业&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-33" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp; 综合档案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="150" y="740" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-34" value="学业成绩" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="265" y="750" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-35" value="纵向对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="390" y="750" width="90" height="40" as="geometry" />
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-35" value="评奖评优" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-36" value="横向对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="515" y="750" width="90" height="40" as="geometry" />
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-36" value="社会实践" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="475" y="750" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-37" value="……" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="565" y="690" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-39" value="……" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="575" y="750" width="35" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
