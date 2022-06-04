@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T09:05:53.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="R35HEGabRyr4cKB9XYxo" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T09:10:24.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="GovIKuU3f9A5_n0aHcRd" version="18.2.0" type="github">
   <diagram id="cTWVXvlOjMiQOvwmBr1u" name="Page-1">
     <mxGraphModel dx="1865" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-19" value="院系数据中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-45" y="690" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-20" value="学生成长中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-20" value="学生综合素质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-180" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-21" value="主题分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -136,7 +136,7 @@
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-23" value="……" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-45" y="810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-24" value="教师一张表（个人版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-24" value="学生一张表（个人版）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=18;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="130" y="650" width="500" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-25" value="数据纠错" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -163,10 +163,10 @@
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-32" value="项目申报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-33" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp; &amp;nbsp;个人业绩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-33" value="&lt;font face=&quot;Georgia&quot;&gt;&amp;nbsp; &amp;nbsp;学业&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="150" y="740" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-34" value="岗位考核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mDmHrpJUrUfLPk-ojY8Q-34" value="学业成绩" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="265" y="750" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDmHrpJUrUfLPk-ojY8Q-35" value="纵向对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
