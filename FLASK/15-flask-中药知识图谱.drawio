@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T03:42:52.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="tHRN4UomjY4q0mQdpmW1" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T03:46:46.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="0mt9nmTDCnnUUgJHEK5W" version="19.0.0" type="github">
   <diagram id="v9VeEew0eSVK_gECYCmD" name="Page-1">
     <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,9 +61,6 @@
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="GBpQVhTk9KxDPRQjgbmB-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z8FbhvkW46ZyqsgCDVF_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="z8FbhvkW46ZyqsgCDVF_-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0YCFfEILquXOQMnymZaD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-4" target="0YCFfEILquXOQMnymZaD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -82,14 +79,14 @@
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-7" value="身份证识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="520" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBpQVhTk9KxDPRQjgbmB-13" value="文章词云/评论词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="GBpQVhTk9KxDPRQjgbmB-13" value="[主治症候] 词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="510" y="360" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBpQVhTk9KxDPRQjgbmB-14" target="EjBGtmn64PD8jTdNR0ln-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GBpQVhTk9KxDPRQjgbmB-14" value="Echarts分析大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="515" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="515" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLsrdyDVqO_aE2-8c7I_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SLsrdyDVqO_aE2-8c7I_-1" target="GBpQVhTk9KxDPRQjgbmB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -114,8 +111,8 @@
         <mxCell id="ySN6mnR29yhOzEf8zuOG-3" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EjBGtmn64PD8jTdNR0ln-1" value="水滴、动态柱状图、饼图、折线图.." style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="675" y="207.5" width="145" height="45" as="geometry" />
+        <mxCell id="EjBGtmn64PD8jTdNR0ln-1" value="知识图谱、柱状图、饼图、折线图等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="677.5" y="217.5" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EjBGtmn64PD8jTdNR0ln-3" value="阿里短信验证码修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="690" y="570" width="120" height="40" as="geometry" />
@@ -132,16 +129,16 @@
         <mxCell id="z8FbhvkW46ZyqsgCDVF_-14" value="设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z8FbhvkW46ZyqsgCDVF_-17" value="舆情旭日图、评论热点图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="515" y="310" width="255" height="40" as="geometry" />
+        <mxCell id="r6f7EZ2_6Z-Kg6KgqbPp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="DAb_E89MeZRaqiROTq5Q-3" target="r6f7EZ2_6Z-Kg6KgqbPp-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAb_E89MeZRaqiROTq5Q-3" value="评价情感分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="DAb_E89MeZRaqiROTq5Q-3" value="交互式的知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="510" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DAb_E89MeZRaqiROTq5Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DAb_E89MeZRaqiROTq5Q-4" target="DAb_E89MeZRaqiROTq5Q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAb_E89MeZRaqiROTq5Q-4" value="深度学习&lt;br&gt;情感分析模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="DAb_E89MeZRaqiROTq5Q-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="330" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzNJQtH1lF4GbQgVGkNk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="dzNJQtH1lF4GbQgVGkNk-1" target="dzNJQtH1lF4GbQgVGkNk-2" edge="1">
@@ -242,8 +239,8 @@
         <mxCell id="0YCFfEILquXOQMnymZaD-10" value="浏览器访问" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="404.12" y="790" width="54.76" height="74.21" as="geometry" />
         </mxCell>
-        <mxCell id="0YCFfEILquXOQMnymZaD-17" value="话题关键词提取、观点提取分析图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="515" y="260" width="255" height="40" as="geometry" />
+        <mxCell id="0YCFfEILquXOQMnymZaD-17" value="中药关键词提取、临床关键词分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="515" y="290" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r6f7EZ2_6Z-Kg6KgqbPp-1" value="方剂信息" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-128.png;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="685.17" y="1090" width="60" height="60" as="geometry" />
@@ -277,6 +274,12 @@
         </mxCell>
         <mxCell id="r6f7EZ2_6Z-Kg6KgqbPp-10" value="详情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6f7EZ2_6Z-Kg6KgqbPp-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/filled-line-christmas-icons/75/_star-128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="426.5" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="r6f7EZ2_6Z-Kg6KgqbPp-19" value="d3.js / echarts &lt;br&gt;均实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
