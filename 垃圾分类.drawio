@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T05:29:32.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="DFwYB9XJnhNTddHsKLSl" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T05:34:54.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="eZEjyslT9uFu3cpG5Z09" version="20.0.4" type="github">
   <diagram id="JCl5eZCCEW6x7IEp9Bsm" name="Page-1">
     <mxGraphModel dx="1043" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,9 @@
         <mxCell id="xFFywQFFWzlZjc-uIubM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="xFFywQFFWzlZjc-uIubM-18" target="xFFywQFFWzlZjc-uIubM-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xFFywQFFWzlZjc-uIubM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="xFFywQFFWzlZjc-uIubM-18" target="xFFywQFFWzlZjc-uIubM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFFywQFFWzlZjc-uIubM-18" value="垃圾分类大数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="740" width="110" height="40" as="geometry" />
         </mxCell>
@@ -78,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFFywQFFWzlZjc-uIubM-20" value="智能搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="630" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="680" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFFywQFFWzlZjc-uIubM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="xFFywQFFWzlZjc-uIubM-21" target="xFFywQFFWzlZjc-uIubM-32">
           <mxGeometry relative="1" as="geometry" />
@@ -106,6 +109,9 @@
         </mxCell>
         <mxCell id="xFFywQFFWzlZjc-uIubM-33" value="搜索趋势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="460" y="820" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFFywQFFWzlZjc-uIubM-36" value="统计面板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
