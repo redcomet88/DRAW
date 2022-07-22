@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:00:56.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="QF31URRxiHmFNteljyI1" type="github"><diagram id="PPw8GWViSRUzQ8mNB2-8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:04:44.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xsod6Uf_zMSmVGKiqxmr" version="20.0.4" type="github">
+  <diagram id="PPw8GWViSRUzQ8mNB2-8" name="Page-1">
+    <mxGraphModel dx="1221" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeColor=#003366;strokeWidth=3;" edge="1" parent="1" source="2_HXgs81OiIyf4aAsGRo-1" target="2_HXgs81OiIyf4aAsGRo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-1" value="责任领导：&lt;br&gt;嵇为超、张国平" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="390" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeColor=#004C99;strokeWidth=3;" edge="1" parent="1" source="2_HXgs81OiIyf4aAsGRo-2" target="2_HXgs81OiIyf4aAsGRo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-2" value="落实部门：&lt;br&gt;办公室、党群工作部、&lt;br&gt;各支部、工会、团总支、妇联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="294" width="390" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-3" value="行动宗旨：&lt;br style=&quot;font-size: 16px;&quot;&gt;“融组织、合力量，融清廉、合正气，融之家、合人心，融青年、合活力，融巾帼、合魅力”，以党建带群建，充分发挥工会、共青团、妇联组织的桥梁和纽带作用，切实增强凝聚力，共画同心圆。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="491" width="390" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
