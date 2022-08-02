@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T09:21:02.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N_qMNAFJZWwLO_Rs-lVN" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T09:22:49.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_GLb89aaiBDByOomQbu_" version="20.1.4" type="github">
   <diagram id="VOp5mjlp2HQmrB3yNQmH" name="第 1 页">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-37" value="词&amp;nbsp; &amp;nbsp; 云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="275" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="273" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-38" value="[商品评论] 词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="433" y="300" width="137" height="40" as="geometry" />
@@ -119,13 +119,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-40" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="275" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="273" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-41" value="UserCF、ItemCF协同过滤推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-43" value="SVD 推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="120" height="20" as="geometry" />
+          <mxGeometry x="440" y="130" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="-aMOJ7WB9ZFkgqsZZZWB-44" target="-aMOJ7WB9ZFkgqsZZZWB-45">
           <mxGeometry relative="1" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="440" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-49" value="个人信息设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="275" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="273" y="370" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
