@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:20:40.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ynw2gj1-lVTU30Th-OZg" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T02:27:20.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HYwRNpo80v7ujmF72WAz" version="20.1.4" type="github">
   <diagram id="VOp5mjlp2HQmrB3yNQmH" name="第 1 页">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,23 @@
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-15" value="RNN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="760" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-16" value="&amp;nbsp; &amp;nbsp;ItemCF :&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-16" value="&amp;nbsp; &amp;nbsp;Item Based CF : 基于Item的协同过滤推荐算法&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
           <mxGeometry x="110" y="860" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-17" value="&amp;nbsp; &amp;nbsp;User Based CF :&amp;nbsp; 基于User的协同过滤推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="910" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-18" value="&amp;nbsp; &amp;nbsp;SVD : SVD是最常见的降维算法，利用矩阵的奇异值分解处理评分矩阵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="960" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-19" value="&amp;nbsp; &amp;nbsp;ALS-MLP :&amp;nbsp; 对评分矩阵进行分解后，用最小二乘法评估缺失值实现推荐，因ALS原理较为简单，所以结合多层神经网络来提升表现。(PyTorch)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1010" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-20" value="&amp;nbsp; &amp;nbsp;CNN :&amp;nbsp; 提取用户/物品的特征向量，利用卷积神经网络模型来实现推荐(PyTorch)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1060" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-21" value="&amp;nbsp; &amp;nbsp;RNN :&amp;nbsp; 提取用户/物品的特征向量，利用循环神经网络模型来实现推荐 (PyTorch)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1110" width="550" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
