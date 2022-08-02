@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:06:35.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="18evbdvAhp7Zvucut0G3" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T02:07:52.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0lInlX6_Y8J0R9H3iK2U" version="20.1.4" type="github">
   <diagram id="VOp5mjlp2HQmrB3yNQmH" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-1" value="京东海外购爬虫&lt;br style=&quot;font-size: 14px;&quot;&gt;（一带一路国家）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="-aMOJ7WB9ZFkgqsZZZWB-2" target="-aMOJ7WB9ZFkgqsZZZWB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-2" value="商品信息： 商品的名称，图片，价格，url, 国家，商品所属的类别等信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="246" height="60" as="geometry" />
+          <mxGeometry x="330" y="430" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aMOJ7WB9ZFkgqsZZZWB-3" value="评论： 评论人、头像、内容、回复数等信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="278" y="480" width="250" height="60" as="geometry" />
+          <mxGeometry x="328" y="530" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
