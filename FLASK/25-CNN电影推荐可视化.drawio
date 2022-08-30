@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T00:55:38.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="plfoAUYtj0R-hvZtGqvD" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T00:56:12.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="L8FC7Z_XYH8NtFHW04dK" version="20.2.7" type="github">
   <diagram id="VOp5mjlp2HQmrB3yNQmH" name="第 1 页">
     <mxGraphModel dx="1024" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,15 +156,6 @@
         <mxCell id="0jEX740wsoMFDmwRTyFC-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" parent="1" vertex="1">
           <mxGeometry x="40" y="908" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="0jEX740wsoMFDmwRTyFC-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" parent="1" vertex="1">
-          <mxGeometry x="40" y="960" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0jEX740wsoMFDmwRTyFC-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" parent="1" vertex="1">
-          <mxGeometry x="40" y="1016" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0jEX740wsoMFDmwRTyFC-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" parent="1" vertex="1">
-          <mxGeometry x="40" y="1070" width="48" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="0jEX740wsoMFDmwRTyFC-8" value="混合CF" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="431.5" y="130" width="120" height="20" as="geometry" />
         </mxCell>
@@ -209,6 +200,9 @@
         </mxCell>
         <mxCell id="4sxwdQ2FRn1By4ORZ0Yz-8" value="物品特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="1740" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4sxwdQ2FRn1By4ORZ0Yz-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="1132" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
