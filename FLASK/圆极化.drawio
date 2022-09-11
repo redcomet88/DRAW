@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T06:41:56.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.8" etag="z2wtVx3QgRbF36vwMPYm" type="github"><diagram id="t1smOoycNePpXcvcGCLy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-11T06:48:50.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ML2_iNHkKSpWLLKd9OPo" version="20.2.8" type="github">
+  <diagram id="t1smOoycNePpXcvcGCLy" name="第 1 页">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="450" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-1" value="数据采集模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;单独馈电四偶极子原极化天馈系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-6" value="&lt;span&gt;开关板系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-7" value="&lt;span&gt;路测数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.5" y="450" as="sourcePoint" />
+            <mxPoint x="229.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-11" value="可视化与数据分析模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-12" value="预警模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="300" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-15" value="外部接口API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDO-jwd2bMjVsWlWGhh-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="470.25" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
