@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T01:31:29.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JDDLp6vqusy4A7SOr1yq" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T01:33:14.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hYeQm9ITX2dpZovu4nBo" version="20.4.0" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,30 @@
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-19" value="爬虫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-20" value="MV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-21" value="音乐人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-22" value="专辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="990" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-23" value="评论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="990" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-24" value="歌词" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-25" value="歌单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-26" value="Echarts 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="850" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-27" value="Echarts 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="920" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
