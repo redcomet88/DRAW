@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T01:30:36.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Aj9KdOxF0n3uIzOd8_fh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T01:30:59.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="POQTrMNnKIuW9x8oUqxM" version="20.4.0" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="wtcgkGCjL-V0qk2THGTA-4" value="Echarts可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wtcgkGCjL-V0qk2THGTA-5" value="词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-5" value="双词云" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-6" value="分页/模糊查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
