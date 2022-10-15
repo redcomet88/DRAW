@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T07:27:28.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5jn_RFcvHmUPYCrKFhpY" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T07:29:44.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3WPjBMWL2ymvhgqSKbA0" version="20.4.1" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
-    <mxGraphModel dx="976" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,6 +188,30 @@
         </mxCell>
         <mxCell id="IFDbjYEKfMzznov-QCEN-5" value="（3）大屏端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="120" y="451.25" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-1" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-2" value="登录与注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-3" value="系统权限" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-4" value="歌曲管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-5" value="专辑管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-6" value="艺术家管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-7" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U2U8d9sQ9sILnOG547oe-9" value="日志管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
