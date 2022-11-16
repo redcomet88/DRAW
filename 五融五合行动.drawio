@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:24:23.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="j5o7nvCdV0XKSXuMEUOY" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T11:13:07.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V-IS76SdWVMB2PWqoVYc" version="20.5.3" type="github">
   <diagram id="PPw8GWViSRUzQ8mNB2-8" name="Page-1">
-    <mxGraphModel dx="1221" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-1" value="责任领导：&lt;br style=&quot;font-size: 25px;&quot;&gt;嵇为超、张国平" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-1" value="责任领导：&lt;br style=&quot;font-size: 25px;&quot;&gt;嵇为超、张国平" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="425" y="98" width="390" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-2" value="落实部门：&lt;br style=&quot;font-size: 22px;&quot;&gt;办公室、党群工作部、&lt;br style=&quot;font-size: 22px;&quot;&gt;各支部、工会、团总支、妇联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-2" value="落实部门：&lt;br style=&quot;font-size: 22px;&quot;&gt;办公室、党群工作部、&lt;br style=&quot;font-size: 22px;&quot;&gt;各支部、工会、团总支、妇联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="425" y="284" width="390" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-3" value="行动宗旨：&lt;br style=&quot;font-size: 17px;&quot;&gt;“融组织、合力量，融清廉、合正气，融之家、合人心，融青年、合活力，融巾帼、合魅力”，以党建带群建，充分发挥工会、共青团、妇联组织的桥梁和纽带作用，切实增强凝聚力，共画同心圆。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-3" value="行动宗旨：&lt;br style=&quot;font-size: 17px;&quot;&gt;“融组织、合力量，融清廉、合正气，融之家、合人心，融青年、合活力，融巾帼、合魅力”，以党建带群建，充分发挥工会、共青团、妇联组织的桥梁和纽带作用，切实增强凝聚力，共画同心圆。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="425" y="454" width="390" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeColor=#004C99;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-1">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeColor=#004C99;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;strokeColor=#004C99;strokeWidth=3;" edge="1" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-2">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;strokeColor=#004C99;strokeWidth=3;" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;strokeColor=#004C99;strokeWidth=3;" edge="1" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-3">
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;strokeColor=#004C99;strokeWidth=3;" parent="1" source="2_HXgs81OiIyf4aAsGRo-7" target="2_HXgs81OiIyf4aAsGRo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_HXgs81OiIyf4aAsGRo-7" value="“五融五合行动”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="13" y="284" width="268" height="98.5" as="geometry" />
+        <mxCell id="2_HXgs81OiIyf4aAsGRo-7" value="“五融五合行动”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="23" y="283.5" width="268" height="98.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
