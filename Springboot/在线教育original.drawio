@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T05:50:06.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aJlFstjXStVeOvTdjFFI" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T05:50:30.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GQOA9nuvLtge7Vaacohp" version="20.4.0" type="github">
   <diagram id="4bwuy9F_7Exs5jkwSpId" name="第 1 页">
     <mxGraphModel dx="1024" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="L-dw7Ir2rHELfsDI23JC-1" value="在线教育平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L-dw7Ir2rHELfsDI23JC-2" value="在线教育平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L-dw7Ir2rHELfsDI23JC-2" value="后台管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L-dw7Ir2rHELfsDI23JC-3" value="在线教育平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L-dw7Ir2rHELfsDI23JC-3" value="前台网站" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
