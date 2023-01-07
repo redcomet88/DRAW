@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T09:57:40.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-yTK0r8aTAAlEK-jvMMX" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T10:00:19.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CtJQzMHawPlpHQ0SwFR6" version="20.7.4" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
     <mxGraphModel dx="3328" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,17 +271,23 @@
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jr-2H8BOoI6xXYUTaBPi-2" target="Jr-2H8BOoI6xXYUTaBPi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jr-2H8BOoI6xXYUTaBPi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jr-2H8BOoI6xXYUTaBPi-2" target="Jr-2H8BOoI6xXYUTaBPi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-2" value="电影评论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="980" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-5" value="bilstm 情感分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="1130" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-8" value="详情页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="980" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-10" value="评论管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-40" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr-2H8BOoI6xXYUTaBPi-11" value="电影评论分页查看" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="310" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
