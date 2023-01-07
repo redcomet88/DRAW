@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T10:00:19.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CtJQzMHawPlpHQ0SwFR6" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T10:02:38.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KrdBjXVFzHKB1TOEaMKm" version="20.7.4" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
     <mxGraphModel dx="3328" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="U2U8d9sQ9sILnOG547oe-1" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-200" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U2U8d9sQ9sILnOG547oe-2" value="登录与注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="U2U8d9sQ9sILnOG547oe-2" value="登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-40" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U2U8d9sQ9sILnOG547oe-3" value="系统权限" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
