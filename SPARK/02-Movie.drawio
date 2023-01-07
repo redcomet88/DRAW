@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T09:37:16.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B04eT1QUx9B2qoxUXE5m" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T09:39:04.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="s5XNZtQfEcyQEARDeUUA" version="20.7.4" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
     <mxGraphModel dx="3088" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="wtcgkGCjL-V0qk2THGTA-4" value="Echarts可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="780" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wtcgkGCjL-V0qk2THGTA-5" value="词云|百度热力图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wtcgkGCjL-V0qk2THGTA-5" value="词云|中国地图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="780" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-6" value="分页/模糊查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -74,6 +74,15 @@
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wtcgkGCjL-V0qk2THGTA-15" target="Jr-2H8BOoI6xXYUTaBPi-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr-2H8BOoI6xXYUTaBPi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wtcgkGCjL-V0qk2THGTA-15" target="Jr-2H8BOoI6xXYUTaBPi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="255" />
+              <mxPoint x="955" y="255" />
+              <mxPoint x="955" y="205" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-15" value="双协同过滤推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="780" y="240" width="150" height="30" as="geometry" />
@@ -165,8 +174,8 @@
         <mxCell id="U2U8d9sQ9sILnOG547oe-25" value="涵盖雷达图、词云、电影评分、评论、本系统平台的充值、包年包月、订单等多种角度的分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-190" y="480" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U2U8d9sQ9sILnOG547oe-27" value="爬取美团店铺数据&lt;br&gt;（*样本为武汉，可以拓展其他城市）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="610" y="520" width="240" height="70" as="geometry" />
+        <mxCell id="U2U8d9sQ9sILnOG547oe-27" value="爬取豆瓣电影、影评数据&lt;br&gt;（*影评采用lstm进行了情感分析处理）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="610" y="520" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U2U8d9sQ9sILnOG547oe-29" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;支付业务设计" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="1" vertex="1">
           <mxGeometry x="-780" y="780" width="680" height="60" as="geometry" />
@@ -257,16 +266,19 @@
           <mxGeometry x="780" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-1" value="电影评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="980" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="980" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jr-2H8BOoI6xXYUTaBPi-2" target="Jr-2H8BOoI6xXYUTaBPi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-2" value="电影评论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="980" y="270" width="110" height="30" as="geometry" />
+          <mxGeometry x="980" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jr-2H8BOoI6xXYUTaBPi-5" value="bilstm 情感分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="270" width="120" height="30" as="geometry" />
+          <mxGeometry x="1121" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr-2H8BOoI6xXYUTaBPi-8" value="详情页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="980" y="190" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
