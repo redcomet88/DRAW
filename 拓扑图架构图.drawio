@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T07:10:51.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ayeRROCB1R8mI2U0YRaj" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:11:25.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FjbZqEZ3dvrZPKXthFY1" version="20.8.5" type="github">
   <diagram id="-ohBLE8x-Wnpsi6ogWC7" name="第 1 页">
     <mxGraphModel dx="984" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,20 +179,29 @@
             <mxPoint x="590" y="1443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9lgOkb08AptDUNzohUUL-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=18;" edge="1" parent="1" source="9lgOkb08AptDUNzohUUL-36" target="9lgOkb08AptDUNzohUUL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9lgOkb08AptDUNzohUUL-36" value="读取csv、json、excel文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1620" width="170" height="60" as="geometry" />
+          <mxGeometry x="240" y="1630" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9lgOkb08AptDUNzohUUL-37" value="导入Neo4J 流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1598" width="33" height="312" as="geometry" />
         </mxCell>
+        <mxCell id="9lgOkb08AptDUNzohUUL-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=18;" edge="1" parent="1" source="9lgOkb08AptDUNzohUUL-38" target="9lgOkb08AptDUNzohUUL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9lgOkb08AptDUNzohUUL-38" value="解析数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1750" width="166" height="60" as="geometry" />
+          <mxGeometry x="242" y="1740" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lgOkb08AptDUNzohUUL-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=18;" edge="1" parent="1" source="9lgOkb08AptDUNzohUUL-39" target="9lgOkb08AptDUNzohUUL-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lgOkb08AptDUNzohUUL-39" value="构造neo4j语句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1860" width="166" height="60" as="geometry" />
+          <mxGeometry x="242" y="1850" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9lgOkb08AptDUNzohUUL-40" value="导入neo4j数库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1970" width="166" height="60" as="geometry" />
+          <mxGeometry x="242" y="1960" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
