@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T02:53:04.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5Pux00LdrmOskAIQn8p0" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T02:54:22.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RE0DuAbril7irCyqrjCq" version="21.0.6" type="github">
   <diagram name="第 1 页" id="2mRQ52QLlzKnQliinkt1">
     <mxGraphModel dx="984" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,48 @@
         <mxCell id="mOGSaVw1MvXez0ik0sxi-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mOGSaVw1MvXez0ik0sxi-3" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-3" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mOGSaVw1MvXez0ik0sxi-10" source="mOGSaVw1MvXez0ik0sxi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-10" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mOGSaVw1MvXez0ik0sxi-13" source="mOGSaVw1MvXez0ik0sxi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-13" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mOGSaVw1MvXez0ik0sxi-15" source="mOGSaVw1MvXez0ik0sxi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="397" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-15" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="423" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mOGSaVw1MvXez0ik0sxi-17" source="mOGSaVw1MvXez0ik0sxi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="327" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-17" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mOGSaVw1MvXez0ik0sxi-19" source="mOGSaVw1MvXez0ik0sxi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOGSaVw1MvXez0ik0sxi-19" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
