@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T05:37:27.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S8OkKVA_Rs3xuiyfh44y" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T05:37:34.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yUCcB6Zoz1FefyMpdGqB" version="21.0.6" type="github">
   <diagram name="第 1 页" id="2mRQ52QLlzKnQliinkt1">
     <mxGraphModel dx="1811" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,10 +90,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-34" value="菜单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="340" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-35" value="是否隐藏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="380" width="90" height="50" as="geometry" />
+          <mxGeometry x="530" y="390" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mOGSaVw1MvXez0ik0sxi-34" target="mOGSaVw1MvXez0ik0sxi-37">
           <mxGeometry relative="1" as="geometry">
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-37" value="菜单名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="90" height="50" as="geometry" />
+          <mxGeometry x="650" y="410" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mOGSaVw1MvXez0ik0sxi-34" target="mOGSaVw1MvXez0ik0sxi-41">
           <mxGeometry relative="1" as="geometry">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-41" value="路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="90" height="50" as="geometry" />
+          <mxGeometry x="750" y="385" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-42" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mOGSaVw1MvXez0ik0sxi-34" target="mOGSaVw1MvXez0ik0sxi-43">
           <mxGeometry relative="1" as="geometry">
@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-43" value="图标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="760" y="300" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOGSaVw1MvXez0ik0sxi-46" value="权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="305" width="120" height="80" as="geometry" />
