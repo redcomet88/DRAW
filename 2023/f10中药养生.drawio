@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T08:00:28.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d4Na5BCBobKddDv2JIdH" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T08:01:42.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TPQmwJnNgTsFA_iJGNF8" version="21.1.2" type="github">
   <diagram name="第 1 页" id="cnBMpmwu3O2mLDWDtyyw">
     <mxGraphModel dx="1003" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,9 @@
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d8EzzS2z0Zi32wdxlMhy-26" target="d8EzzS2z0Zi32wdxlMhy-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d8EzzS2z0Zi32wdxlMhy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d8EzzS2z0Zi32wdxlMhy-26" target="d8EzzS2z0Zi32wdxlMhy-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-26" value="Echarts分析大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="455" y="-777.5" width="120" height="40" as="geometry" />
         </mxCell>
@@ -97,7 +100,7 @@
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-32" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="-510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d8EzzS2z0Zi32wdxlMhy-33" value="知识图谱、柱状图、饼图、折线图等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="d8EzzS2z0Zi32wdxlMhy-33" value="环形图、柱状图、饼图、折线图等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="-780" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-34" value="阿里短信验证码修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -115,7 +118,7 @@
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d8EzzS2z0Zi32wdxlMhy-42" target="d8EzzS2z0Zi32wdxlMhy-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d8EzzS2z0Zi32wdxlMhy-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="d8EzzS2z0Zi32wdxlMhy-42" value="&amp;nbsp;neo4j知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="270" y="-586.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-43" value="中药关键词提取、临床关键词分析、&lt;br&gt;中医养生关键词频分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -139,9 +142,6 @@
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-49" value="详情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="590" y="-920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d8EzzS2z0Zi32wdxlMhy-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/filled-line-christmas-icons/75/_star-128.png;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="-590" width="47" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-51" value="升级版" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="-586.5" width="110" height="40" as="geometry" />
         </mxCell>
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="d8EzzS2z0Zi32wdxlMhy-59" value="医案精选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="270" y="-790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d8EzzS2z0Zi32wdxlMhy-62" value="百度中医高校热力图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="-840" width="145" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
