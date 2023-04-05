@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T00:51:35.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="i65YIumMRoI0N31Cocrl" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T00:52:42.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iTR-Ya_SB0D973VSPkqZ" version="21.1.2" type="github">
   <diagram name="第 1 页" id="-02idUG7nGklGIDdgU3A">
     <mxGraphModel dx="984" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,11 +100,11 @@
         </mxCell>
         <mxCell id="ILd6SLxY5iuPmNZTyazk-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="281" y="640" as="sourcePoint" />
-            <mxPoint x="281" y="870" as="targetPoint" />
+            <mxPoint x="764" y="629" as="sourcePoint" />
+            <mxPoint x="767" y="879" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="241" y="640" />
-              <mxPoint x="201" y="790" />
+              <mxPoint x="825" y="633" />
+              <mxPoint x="818" y="791" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,7 +131,7 @@
         <mxCell id="ILd6SLxY5iuPmNZTyazk-33" value="喜欢" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="527" y="653" as="sourcePoint" />
-            <mxPoint x="614" y="635" as="targetPoint" />
+            <mxPoint x="614" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ILd6SLxY5iuPmNZTyazk-34" value="根据物品的相似度去推荐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
@@ -139,21 +139,27 @@
         </mxCell>
         <mxCell id="ILd6SLxY5iuPmNZTyazk-35" value="喜欢" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518" y="748" as="sourcePoint" />
-            <mxPoint x="613" y="692" as="targetPoint" />
+            <mxPoint x="508" y="836" as="sourcePoint" />
+            <mxPoint x="616" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ILd6SLxY5iuPmNZTyazk-36" value="喜欢" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="521" y="753" as="sourcePoint" />
-            <mxPoint x="615" y="753" as="targetPoint" />
+            <mxPoint x="607" y="853" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ILd6SLxY5iuPmNZTyazk-37" value="推荐" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.3354" y="3" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="617" y="643" as="sourcePoint" />
+            <mxPoint x="619" y="873" as="sourcePoint" />
             <mxPoint x="518" y="855" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILd6SLxY5iuPmNZTyazk-38" value="喜欢" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516" y="633" as="sourcePoint" />
+            <mxPoint x="618" y="627" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
