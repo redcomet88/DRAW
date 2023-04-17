@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T01:38:49.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="O8pHgWfLpCvV-vLHilFN" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:41:35.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Jl2w0MBWeCD6LZ5xvBQE" version="21.1.8" type="github">
   <diagram name="第 1 页" id="ylQiIapKLuFGazXnUSWv">
     <mxGraphModel dx="1811" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-65" value="苏州市全民数字素养指标体系构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-67" value="数字素养指标选取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-67" value="全民数字素养指标选取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="214" y="670" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-68" target="sdYyX6AsqRZzDsCQbQxA-81">
@@ -196,14 +196,17 @@
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-71" value="苏州市全民数字素养问卷调查" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="240" y="780" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-72" value="国内外数字素养研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-72" target="sdYyX6AsqRZzDsCQbQxA-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-72" value="调查问卷设计与发放" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="215" y="830" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-73" value="数字素养指标体系研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="215" y="880" width="200" height="40" as="geometry" />
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-73" value="数据回收与分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="830" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-74" value="数字素养技能提升对策研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="215" y="930" width="200" height="40" as="geometry" />
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-74" value="全民数字素养指标有效性验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="880" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-79" target="sdYyX6AsqRZzDsCQbQxA-80">
           <mxGeometry relative="1" as="geometry" />
@@ -211,14 +214,29 @@
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-79" value="维度分析与指标体系顶层设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="213.5" y="570" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-80" value="数字素养指标层次权重设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-80" value="指标层次权重设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="570" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-81" value="专家建议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="620" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sdYyX6AsqRZzDsCQbQxA-82" value="数字素养指标体系确定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-82" value="全民数字素养指标体系确定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-86" target="sdYyX6AsqRZzDsCQbQxA-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-86" target="sdYyX6AsqRZzDsCQbQxA-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-86" value="全民数字素养现状分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="214" y="930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-88" value="编制全民素质素养发展报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-89" value="发现问题与提出对策" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="475" y="930" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
