@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T01:31:54.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PJcbBsDJi09yI81AH-27" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:32:39.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uwGuNBK83GfvauUpX3if" version="21.1.8" type="github">
   <diagram name="第 1 页" id="ylQiIapKLuFGazXnUSWv">
     <mxGraphModel dx="1811" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,10 +110,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-46" value="苏州市全民&lt;br&gt;数字素养指标体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="725" y="570" width="140" height="60" as="geometry" />
+          <mxGeometry x="725" y="585" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-47" value="苏州市全民&lt;br&gt;数字素养报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="725" y="760" width="140" height="60" as="geometry" />
+          <mxGeometry x="725" y="850" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="510" width="230" height="210" as="geometry" />
@@ -156,6 +156,48 @@
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-62" value="实证调查研究" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-25" y="780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-63" target="sdYyX6AsqRZzDsCQbQxA-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="sourcePoint" />
+            <mxPoint x="410" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-65" value="文献综述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-66" value="国内外数字素养研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="570" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-67" value="数字素养指标体系研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="620" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-68" value="数字素养技能提升对策研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-69" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-70" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-69" target="sdYyX6AsqRZzDsCQbQxA-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="870" as="sourcePoint" />
+            <mxPoint x="410" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-71" value="文献综述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-72" value="国内外数字素养研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="830" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-73" value="数字素养指标体系研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-74" value="数字素养技能提升对策研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="215" y="930" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
