@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T01:28:02.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="596eMTSOVyng22ZGuOF4" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:29:55.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aADv2XiUiukDoWUn_ZsS" version="21.1.8" type="github">
   <diagram name="第 1 页" id="ylQiIapKLuFGazXnUSWv">
     <mxGraphModel dx="1811" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,10 +110,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-46" value="苏州市全民&lt;br&gt;数字素养指标体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="725" y="530" width="140" height="60" as="geometry" />
+          <mxGeometry x="725" y="570" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-47" value="苏州市全民&lt;br&gt;数字素养报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="725" y="720" width="140" height="60" as="geometry" />
+          <mxGeometry x="725" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="510" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-50" target="sdYyX6AsqRZzDsCQbQxA-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="610" as="sourcePoint" />
+            <mxPoint x="145" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-54" target="sdYyX6AsqRZzDsCQbQxA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-54" value="德尔菲专家调查法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-55" value="指标体系确立" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="660" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
