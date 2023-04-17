@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T01:33:16.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IGQHGBsyxlFssaoUKBFg" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:33:47.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l8DZpbyAJDisMSG6r4ui" version="21.1.8" type="github">
   <diagram name="第 1 页" id="ylQiIapKLuFGazXnUSWv">
     <mxGraphModel dx="1811" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-22" value="提升全民数字素养与技能行动纲要" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="475" y="410" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-32" target="sdYyX6AsqRZzDsCQbQxA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="250" width="230" height="210" as="geometry" />
         </mxCell>
@@ -114,6 +117,9 @@
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-47" value="苏州市全民&lt;br&gt;数字素养报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="725" y="850" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sdYyX6AsqRZzDsCQbQxA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdYyX6AsqRZzDsCQbQxA-50" target="sdYyX6AsqRZzDsCQbQxA-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sdYyX6AsqRZzDsCQbQxA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="510" width="230" height="210" as="geometry" />
