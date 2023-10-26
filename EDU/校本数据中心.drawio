@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T07:48:21.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jOEJhiBnsTbGqwSSNpJ2" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:49:53.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Y76ZTveHX32S8_KHyy1a" version="21.7.5" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1406" dy="-1668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="-1668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="ly6Jiqgfz2qiB4Dlfhox-669" value="&lt;ul style=&quot;font-size: 22px;&quot;&gt;&lt;li&gt;数据资产的形成从明细数据转向指标和关系数据&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;align=left;" vertex="1" parent="1">
           <mxGeometry x="816" y="3217" width="341" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="ly6Jiqgfz2qiB4Dlfhox-670" value="&lt;ul style=&quot;font-size: 22px;&quot;&gt;&lt;li&gt;教育管理决策系统（数字驾驶舱）&lt;/li&gt;&lt;li&gt;数据门户&lt;/li&gt;&lt;li&gt;其他应用&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;align=left;" vertex="1" parent="1">
+        <mxCell id="ly6Jiqgfz2qiB4Dlfhox-670" value="&lt;ul style=&quot;font-size: 22px;&quot;&gt;&lt;li&gt;教育管理决策系统（数字驾驶舱）&lt;/li&gt;&lt;li&gt;数据门户&lt;/li&gt;&lt;li&gt;绩效一张表等其他应用&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;align=left;" vertex="1" parent="1">
           <mxGeometry x="9" y="3107" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ly6Jiqgfz2qiB4Dlfhox-671" value="&lt;ul style=&quot;font-size: 22px;&quot;&gt;&lt;li&gt;服务平台(API对接业务系统）&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;align=left;" vertex="1" parent="1">
