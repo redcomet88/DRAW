@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T02:15:16.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3mnyic5rU2FJvrb2TU5W" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T10:15:18.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p9Ox7t4soePb_gkQWOF_" version="22.0.8" type="github">
   <diagram id="gHdGT0hqlNenqPQnGmaF" name="第 1 页">
-    <mxGraphModel dx="2878" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3210" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,6 +32,14 @@
         </mxCell>
         <mxCell id="wLEqM8aF8LvyR5twDsxs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_AVYcbNs08KcEML1Ji8-2" target="wLEqM8aF8LvyR5twDsxs-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wLEqM8aF8LvyR5twDsxs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_AVYcbNs08KcEML1Ji8-2" target="3bAerDYJrWj9A8o_MDeT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="295" />
+              <mxPoint x="590" y="325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6_AVYcbNs08KcEML1Ji8-2" value="（1）网站端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="120" height="50" as="geometry" />
@@ -71,15 +79,6 @@
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-6" value="分页/模糊查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="780" y="510" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3bAerDYJrWj9A8o_MDeT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_AVYcbNs08KcEML1Ji8-2" target="3bAerDYJrWj9A8o_MDeT-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="295" />
-              <mxPoint x="590" y="330" />
-              <mxPoint x="625" y="330" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="wtcgkGCjL-V0qk2THGTA-15" value="双协同过滤推荐算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="765" y="260" width="150" height="30" as="geometry" />
