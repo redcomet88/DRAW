@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:57:13.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ssxnYgCLPVLtxtEAT_TC" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:03:06.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QQFjOLkTN2xwxJORlxW3" version="23.0.2" type="github">
   <diagram name="第 1 页" id="p2O_pzp0-64MXv6UX66W">
     <mxGraphModel dx="984" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1815" width="410" height="234" as="geometry" />
+        </mxCell>
         <mxCell id="ETWkTozmqkmJkBLLcPK1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="110" width="340" height="320" as="geometry" />
         </mxCell>
@@ -222,16 +225,16 @@
           <mxGeometry x="520" y="1369" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-3" value="HDFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="344.6" y="2057" width="60" height="60" as="geometry" />
+          <mxGeometry x="404" y="2084" width="85" height="83" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-4" value="本地存储" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="239.6" y="2057" width="60" height="60" as="geometry" />
+          <mxGeometry x="206.8" y="2088" width="82.4" height="82" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-5" value="Spark Mlib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="259" y="1893" width="120" height="60" as="geometry" />
+          <mxGeometry x="188" y="1891.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-6" value="Spark Streaming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1893" width="120" height="60" as="geometry" />
+          <mxGeometry x="394" y="1891.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-7" value="Kafka" style="shape=tape;whiteSpace=wrap;html=1;size=0.1935483870967742;" vertex="1" parent="1">
           <mxGeometry x="563" y="1887.5" width="81.01" height="65.5" as="geometry" />
@@ -242,8 +245,8 @@
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-9" value="用户行为" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="638" y="1750" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-10" value="应用系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121" y="1696" width="409" height="62" as="geometry" />
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-10" value="我们的应用系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1696" width="417" height="62" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;curved=1;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-10" target="cRHY1Ou3UtyJ2-wogr3j-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,20 +266,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-13" value="Spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121" y="1893" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-8" target="cRHY1Ou3UtyJ2-wogr3j-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="518" y="2082" as="sourcePoint" />
             <mxPoint x="568" y="2032" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-7">
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-7" target="cRHY1Ou3UtyJ2-wogr3j-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1919.75" as="sourcePoint" />
             <mxPoint x="524" y="1920.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-4" target="cRHY1Ou3UtyJ2-wogr3j-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="263" y="2083" as="sourcePoint" />
+            <mxPoint x="237" y="2064" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-24" value="spark&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1834" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
