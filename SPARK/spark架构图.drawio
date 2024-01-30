@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T07:05:06.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i1DyHv4r36YFn6-2jXOw" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:05:16.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qONZ8iypeXcAWLYtrMm8" version="23.0.2" type="github">
   <diagram name="第 1 页" id="p2O_pzp0-64MXv6UX66W">
     <mxGraphModel dx="984" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-9" value="用户行为" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="638" y="1750" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-10" value="我们的应用系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-10" value="应用系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="121" y="1696" width="417" height="62" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;curved=1;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-10" target="cRHY1Ou3UtyJ2-wogr3j-9">
