@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:25:12.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FBqRaLbn-31oX7W8iE0_" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:26:50.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Yoc3bVsKZ0nj19jBtWKh" version="23.0.2" type="github">
   <diagram name="第 1 页" id="p2O_pzp0-64MXv6UX66W">
     <mxGraphModel dx="984" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,8 +221,8 @@
         <mxCell id="ETWkTozmqkmJkBLLcPK1-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABs0lEQVR4nO2awU4CMRCG/xtwNIHEh/HgQd8F3kKfTaMcTJSLB4mJvgPhomZMyaxhye52lhao7f8lk9B22+3/05ldEgBCCCGEkMK5BPAAYAVAMo+VanWaN1wA+ElgY8cOp3ljwn0CmzlV3DkD1i2DFdb2f4x1l4ASDJAcBNAARDoBpUEDeALAFJBaLhRG7xQYA5gifaa616gGjAEs9LoZ0mWme1wYTDAbMNkSv7tw29zd/tZnsHH8peMaN1ZxBuBJ+18BnIcaMOkQf0wDvC8ze5jgNcAnvo8Bvv7Y61lM6DTAIj7mhg+xns+ETgPmxmLS52j6NmwRar1PU/Ge52rAs9GAx7Z7SYxCEtgfOi+ogEuMQpKYAb0KuMQoJAkZ0LuAi2fxLhNSM8AqvramGBYv+lW4ougfQzlCA3gC4E8ByST2TgHJJGhAAzwBLILge4DUcqEwDlIDQuZm8RTY5tSiaQB4AsAUAGsAgopgzvzp/tYPQ5TDUDV/uca7Nq5QDteqeekat9r40IEB8mWgGj9V843rHOm/p6WwcJqd9g0jPQlLzQvJNJy2N/3mS6p5hBBCCBr4BdaCeuUWVX2aAAAAAElFTkSuQmCC;" parent="1" vertex="1">
           <mxGeometry x="520" y="1369" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="403" y="1936" width="60" height="106" as="geometry" />
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-3" value="HDFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1953" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
