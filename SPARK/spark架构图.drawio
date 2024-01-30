@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:46:25.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bZ0UMumGYPYV-XMPBGex" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:55:47.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="79aMT8897WYsap_0cXx8" version="23.0.2" type="github">
   <diagram name="第 1 页" id="p2O_pzp0-64MXv6UX66W">
     <mxGraphModel dx="984" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,19 +222,49 @@
           <mxGeometry x="520" y="1369" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-3" value="HDFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1953" width="60" height="60" as="geometry" />
+          <mxGeometry x="344.6" y="2057" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-4" value="本地存储" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="199" y="1953" width="60" height="60" as="geometry" />
+          <mxGeometry x="239.6" y="2057" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-5" value="Spark Mlib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="1785" width="120" height="60" as="geometry" />
+          <mxGeometry x="259" y="1893" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-6" value="Spark Streaming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1785" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="1893" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRHY1Ou3UtyJ2-wogr3j-7" value="Kafka" style="shape=tape;whiteSpace=wrap;html=1;size=0.1935483870967742;" vertex="1" parent="1">
-          <mxGeometry x="548" y="1773" width="93" height="77" as="geometry" />
+          <mxGeometry x="552.99" y="1887.5" width="81.01" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-8" value="flume" style="shape=tape;whiteSpace=wrap;html=1;size=0.1935483870967742;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1887.5" width="82" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-9" value="用户行为" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="1750" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-10" value="应用系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1696" width="409" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;curved=1;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-10" target="cRHY1Ou3UtyJ2-wogr3j-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="869" y="1888" as="sourcePoint" />
+            <mxPoint x="766" y="1890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="1716" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.473;entryY=0.097;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;entryPerimeter=0;curved=1;" edge="1" parent="1" source="cRHY1Ou3UtyJ2-wogr3j-9" target="cRHY1Ou3UtyJ2-wogr3j-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="972" y="1815" as="sourcePoint" />
+            <mxPoint x="931" y="1815" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cRHY1Ou3UtyJ2-wogr3j-13" value="Spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1893" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
