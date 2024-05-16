@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T01:31:40.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dSpPfor6wB_iCmALPxab" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T01:34:26.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oJBGIfZ8108Zm-SCzQ2L" version="24.4.2" type="github">
   <diagram name="第 1 页" id="xd2-DBqmfvaIYT1nYGzt">
     <mxGraphModel dx="1020" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,17 +37,47 @@
         <mxCell id="MD2gJB0NFOTU7PyMnq_k-6" value="组装回答结果返回前端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="199" y="324" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MD2gJB0NFOTU7PyMnq_k-13" value="vue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="503" y="99" width="307" height="71" as="geometry" />
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="320" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="MD2gJB0NFOTU7PyMnq_k-14" value="vue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="503" y="200" width="307" height="74" as="geometry" />
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="591" width="318" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="MD2gJB0NFOTU7PyMnq_k-15" value="vue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="503" y="310" width="307" height="74" as="geometry" />
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="701" width="319" height="74" as="geometry" />
         </mxCell>
         <mxCell id="MD2gJB0NFOTU7PyMnq_k-16" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="410" y="116" width="60" height="30" as="geometry" />
+          <mxGeometry x="143" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-17" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="141" y="616" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-18" value="数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="145" y="725" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-19" value="vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="506" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-20" value="vuetify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="507" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-21" value="echarts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="506" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-22" value="django" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="612" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-23" value="py2neo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="612" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;aho-corasick&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453.5" y="612" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-25" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="719" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MD2gJB0NFOTU7PyMnq_k-26" value="neo4j" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="717" width="86" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
