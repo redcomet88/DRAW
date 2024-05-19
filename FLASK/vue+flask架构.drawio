@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T07:50:28.498Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="U-TFovvBZk-po_9SnNxT" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T07:50:45.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v65U_KF3kAmrUtOlUotT" version="23.1.0" type="github">
   <diagram name="第 1 页" id="SWAsnjmx8WbGRcp9eEij">
     <mxGraphModel dx="984" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="9d2OV416o8DgazWTX3bJ-13" value="&lt;h1&gt;二、推荐&lt;/h1&gt;&lt;p&gt;（1）前端是会保存用户的信息（用户名、用户ID）&lt;/p&gt;&lt;p&gt;（2）用户ID传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）根据用户ID结合推荐算法，去进行推荐（给出评分高的）&lt;/p&gt;&lt;p&gt;（4）返回推荐结果（Json 格式的数据）&lt;/p&gt;&lt;p&gt;（5）前端进行结果的展示【数据细节在前端进行美化了】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9d2OV416o8DgazWTX3bJ-14" value="&lt;h1&gt;三、可视化【echarts】&lt;/h1&gt;&lt;p&gt;（1）前端发送数据请求&lt;/p&gt;&lt;p&gt;（2）传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）进行数据的查询&lt;/p&gt;&lt;p&gt;（4）返回推荐结果（Json 格式的数据）&lt;/p&gt;&lt;p&gt;（5）前端进行结果的展示【数据细节在前端进行美化了】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="9d2OV416o8DgazWTX3bJ-14" value="&lt;h1&gt;三、可视化【echarts】&lt;/h1&gt;&lt;p&gt;（1）前端发送数据请求&lt;/p&gt;&lt;p&gt;（2）传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）进行数据的查询&lt;/p&gt;&lt;p&gt;（4）返回数据结果&lt;/p&gt;&lt;p&gt;（5）前端进行结果的展示&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="540" y="530" width="320" height="200" as="geometry" />
         </mxCell>
       </root>
