@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T07:46:41.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tZJEuozjfRIaAdUVGRwv" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T07:49:48.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ebu6nPmQQjcn4W5hgfjd" version="23.1.0" type="github">
   <diagram name="第 1 页" id="SWAsnjmx8WbGRcp9eEij">
     <mxGraphModel dx="984" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,12 +14,12 @@
           <mxGeometry x="410" y="350" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9d2OV416o8DgazWTX3bJ-4" value="Python爬取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9d2OV416o8DgazWTX3bJ-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="379.5" as="sourcePoint" />
-            <mxPoint x="370" y="379.5" as="targetPoint" />
+            <mxPoint x="290" y="379.5" as="sourcePoint" />
+            <mxPoint x="380" y="379.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9d2OV416o8DgazWTX3bJ-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -44,8 +44,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9d2OV416o8DgazWTX3bJ-8" value="&lt;h1&gt;登录&lt;/h1&gt;&lt;p&gt;（1） 进入到了登录页面&lt;/p&gt;&lt;p&gt;（2）用户名和密码传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）flask 获取到这个请求，获取到参数【用户名、密码】&lt;/p&gt;&lt;p&gt;（4）进行数据的查询，用户名和密码是不是匹配，是不是存在 【所谓的业务】&amp;nbsp;&lt;/p&gt;&lt;p&gt;（5）返回一个结果给前端，前端根据结果来进行提示，然后进行下一步。【可能涉及到页面跳转（路由）】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="540" y="80" width="320" height="230" as="geometry" />
+        <mxCell id="9d2OV416o8DgazWTX3bJ-8" value="&lt;h1&gt;一、登录&lt;/h1&gt;&lt;p&gt;（1） 进入到了登录页面&lt;/p&gt;&lt;p&gt;（2）用户名和密码传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）flask 获取到这个请求，获取到参数【用户名、密码】&lt;/p&gt;&lt;p&gt;（4）进行数据的查询，用户名和密码是不是匹配，是不是存在 【所谓的业务】&amp;nbsp;&lt;/p&gt;&lt;p&gt;（5）返回一个结果给前端，前端根据结果来进行提示，然后进行下一步。【可能涉及到页面跳转（路由）】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="9d2OV416o8DgazWTX3bJ-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,6 +55,12 @@
         </mxCell>
         <mxCell id="9d2OV416o8DgazWTX3bJ-12" value="（1）发送get、post（put、delete）两种方法，参数、json发送&lt;br&gt;（2）接受，json的格式返回" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9d2OV416o8DgazWTX3bJ-13" value="&lt;h1&gt;二、推荐&lt;/h1&gt;&lt;p&gt;（1）前端是会保存用户的信息（用户名、用户ID）&lt;/p&gt;&lt;p&gt;（2）用户ID传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）根据用户ID结合推荐算法，去进行推荐（给出评分高的）&lt;/p&gt;&lt;p&gt;（4）返回推荐结果（Json 格式的数据）&lt;/p&gt;&lt;p&gt;（5）前端进行结果的展示【数据细节在前端进行美化了】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9d2OV416o8DgazWTX3bJ-14" value="&lt;h1&gt;三、可视化&lt;/h1&gt;&lt;p&gt;（1）前端发送数据请求&lt;/p&gt;&lt;p&gt;（2）用户ID传递给flask（axios 的一个http的请求)&lt;/p&gt;&lt;p&gt;（3）根据用户ID结合推荐算法，去进行推荐（给出评分高的）&lt;/p&gt;&lt;p&gt;（4）返回推荐结果（Json 格式的数据）&lt;/p&gt;&lt;p&gt;（5）前端进行结果的展示【数据细节在前端进行美化了】&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="320" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
