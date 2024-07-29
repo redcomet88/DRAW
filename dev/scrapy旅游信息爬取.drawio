@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lwfYYLxLNdQcmLYIgolU-1" value="读取comment_url" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwfYYLxLNdQcmLYIgolU-3" value="爬取下一页？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwfYYLxLNdQcmLYIgolU-4" value="爬取评论页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwfYYLxLNdQcmLYIgolU-5" value="读取一条景点数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="120" height="80" as="geometry" />
